@@ -1,4 +1,4 @@
-
+//agrego comentario
 package ej_ficherobinario_2;
 
 import java.io.DataInputStream;
